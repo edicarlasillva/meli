@@ -2,21 +2,20 @@
     <img alt="Discord" title="Discord" src="https://i.imgur.com/wCo76ZX.png" />
 </h1>
 
-# 🎮 Discord
+# 💻 Meli
 
-Não importa se você faz parte de um clube escolar, uma comunidade artística mundial ou só amigos querendo ficar de boa, o Discord torna mais fácil conversar todo dia e se ver com mais frequência.
+Um assistente virtual para realizar todo o atendimento dentro no Mercado Livre através do Whatsapp. Acessível com um clique, sempre disponível para te ajudar, 24 horas por dia.
 
 <h4 align="center"> 
-	Projeto em evolução 🚀
+	Projeto desenvolvido para o Mega Hack 🚀
 </h4>
 
 ### 🎨 Layout da aplicação
 
-O layout web está disponível no [Figma](https://www.figma.com/file/Mnr08FcriAibSOheL0XvrY/Discord-Clone?node-id=0%3A1).
+O layout web está disponível no [Adobe XD](https://xd.adobe.com/view/b1d74732-97aa-4059-58f0-d35c2ff4f64f-c7e6/?fullscreen).
 
 ### 💻 Tecnologias Utilizadas
 
-- [TypeScript](https://www.typescriptlang.org/)
 - [React](https://pt-br.reactjs.org/)
 - [Styled-Components](https://styled-components.com/)
 
@@ -28,7 +27,7 @@ O layout web está disponível no [Figma](https://www.figma.com/file/Mnr08FcriAi
 1. Clone o projeto:
 
 ```bash
-  $ git clone https://github.com/edicarlasillva/clone-discord
+  $ git clone https://github.com/edicarlasillva/meli.git
 ```
 
 2. Excute a aplicação rodando os comandos abaixo:
@@ -40,14 +39,5 @@ O layout web está disponível no [Figma](https://www.figma.com/file/Mnr08FcriAi
   # Inicie a aplicação
   $ yarn start
 ```
-
-### 🎉 Como contribuir
-
-- Faça um fork desse repositório;
-- Crie uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 Feito com amor e dedicação por [Edicarla Silva](https://www.linkedin.com/in/edicarlasilva/) 💜🚀
